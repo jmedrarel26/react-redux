@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-redux/static/css/main.92461b8e.css",
+    "main.js": "/react-redux/static/js/main.713e9558.js",
+    "static/js/787.5e676c17.chunk.js": "/react-redux/static/js/787.5e676c17.chunk.js",
+    "static/media/movie-theater.png": "/react-redux/static/media/movie-theater.2a5ff3eb15dce5076bcd.png",
+    "static/media/chairs.png": "/react-redux/static/media/chairs.d9af9e9f20291a932cd8.png",
+    "index.html": "/react-redux/index.html",
+    "main.92461b8e.css.map": "/react-redux/static/css/main.92461b8e.css.map",
+    "main.713e9558.js.map": "/react-redux/static/js/main.713e9558.js.map",
+    "787.5e676c17.chunk.js.map": "/react-redux/static/js/787.5e676c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92461b8e.css",
+    "static/js/main.713e9558.js"
+  ]
+}
